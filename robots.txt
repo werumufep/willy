@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://werumufep.github.io/willy/sitemap.xml
